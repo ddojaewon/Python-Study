@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Jaewon's study box 👋
 
 <!--
 **ddojaewon/ddojaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
